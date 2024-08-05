@@ -1,0 +1,161 @@
+body {
+    background-color: #4a4e69;
+}
+
+.sidebar {
+    background-color: #1b263b;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    padding: 10px;
+}
+
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 3em;
+    color: white;
+    margin: 1em;
+    transition: background-color 1s ease-in-out, border radius 2s;
+}
+
+.logo a:hover {
+    background-color: #240046;
+    border-radius: 100%;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+li a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+li a:hover {
+    background-color: rgb(0, 0, 0);
+    border-radius: 1em;
+    color: white;
+}
+
+button {
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 0%
+}
+
+button a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.heading {
+    text-align: center;
+    box-shadow: #1b263b;
+    background-color: #463f3a;
+    height: 4px;
+}
+
+.fit-picture {
+    display: inline-block;
+    width: 7em;
+}
+
+.fit-picture2 {
+    display: inline-block;
+    width: 10em;
+    height: 5em;
+}
+
+.fit-picture3 {
+    display: inline-block;
+    width: 10em;
+    height: 6em;
+}
+
+.fit-picture4 {
+    display: inline-block;
+    width: 7.9em;
+    height: 6em;
+}
+
+.fit-picture5 {
+    display: inline-block;
+    width: 7.9em;
+    height: 6em;
+}
+
+.fit-picture6 {
+    display: inline-block;
+    width: 7.9em;
+    height: 6em;
+}
+
+.fit-picture7 {
+    display: inline-block;
+    width: 7.9em;
+    height: 6em;
+}
+
+.fit-picture8 {
+    display: inline-block;
+    width: 7.9em;
+    height: 6em;
+}
+
+.fit-picture9 {
+    display: inline-block;
+    width: 7.9em;
+    height: 6em;
+}
+
+.fit-picture10 {
+    display: inline-block;
+    width: 9.8em;
+    height: 6em;
+}
+
+.fit-picture11 {
+    display: inline-block;
+    width: 7em;
+    height: 6em;
+}
+
+section {
+    color: antiquewhite;
+    box-shadow: 10px 5px 5px black;
+    background-color: #2e294e;
+    font-size: 40px;
+    text-align: center;
+}
+
+.row {
+    display: inline-block;
+}
+
+.display-2 {
+    margin-right: 4em;
+    text-align: center;
+    padding: 0;
+
+}
+
+.gif1 {
+    width: 30%;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.parent {
+    float: left;
+}
